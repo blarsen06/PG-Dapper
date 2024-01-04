@@ -1,7 +1,8 @@
 repo_name: blarsen06/PG-Dapper
 report_id: 112585350454c3ce85e7e8ace352c0fb
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-29T17:13:13+00:00'
+timestamp: '2024-01-04T15:01:40+00:00'
 requested_by: Sarubala20
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/blarsen06/PG-Dapper
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -41,7 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -56,7 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -69,7 +72,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5847/default_377344b5aec46a959a5debae12cb81f81a64dce3.png
-  detection_source_url: github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -81,6 +84,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -92,6 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/blarsen06/PG-Dapper
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -101,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/.github/workflows/gitleaks.yaml
   detection_source: ".github/workflows/gitleaks.yaml"
   last_updated_by: SyncfusionBuild
   last_updated_on: 2023-01-24 10:52:27.000000000 Z
@@ -112,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -124,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD.sln
   detection_source: DotNetCRUD.sln
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -137,7 +145,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12954/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
@@ -151,7 +159,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
+  detection_source_url: https://github.com/blarsen06/PG-Dapper/blob/master/DotNetCRUD/DotNetCRUD.csproj
   detection_source: DotNetCRUD/DotNetCRUD.csproj
   last_updated_by: Yohan Malshika
   last_updated_on: 2022-07-06 13:23:25.000000000 Z
